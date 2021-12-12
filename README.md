@@ -4,7 +4,7 @@
 
 </h2>
 
-<h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>
+<h2 align="center"><a  href="https://naturaldisaster-tracker.netlify.app/">Live Demo</a></h2>
 
 ## Description
 
