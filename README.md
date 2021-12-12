@@ -18,15 +18,15 @@ Used Google Maps official API as well as NASA's EONET API to create an app which
 
 ## How to use
 
-### Select various types of disasters the map should show.
+## Select various types of disasters the map should show.
 
 - **Hover** over the search-bar under "Select-Disaster" and click on the ones you want to see.
 
-### Get details of a disaster at a specific location.
+## Get details of a disaster at a specific location.
 
 - **Click** on the marker at your preferred location and a box with its details should pop up on the right as shown in the screenshot.
 
-## Downloading all the different disasters' details in a CSV file.
+## Download whole data as a CSV file.
 
 - **Click** on the download icon in the header and a CSV files with all the data will be downloaded. (Preferably open in Excel for neat formatting)
 
