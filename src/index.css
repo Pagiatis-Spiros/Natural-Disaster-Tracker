@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  background-color: rgb(217, 238, 159);
+}
+
+.header {
+  padding: 10px;
+  background-color: rgb(32, 57, 75);
+  color: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 100;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 25px;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.header img {
+  position: relative;
+  top: 12px;
+  width: 55px;
+  height: 40px;
+}
+
+.map {
+  width: 60vw;
+  height: 80vh;
+  position: relative;
+  top: 145px;
+  left: 280px;
+  overflow: hidden;
+  border-radius: 7px;
+  border: 2px solid rgba(32, 57, 75, 0.808);
+  
+
+}
+
+.location-icon {
+  font-size: 1.6rem;
+  color: red;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.loader img {
+  width: 200px;
+}
+
+.loader h1 {
+  margin-top: 100px;
+  color: white;
+}
+
+.location-info {
+  position: absolute;
+  top: 90px;
+  right: 5px;
+  width: 245px;
+  min-height: 200px;
+  padding: 20px;
+  background-color: rgba(32, 57, 75, 0.63);
+  border-radius: 10px;
+  font-size: 15px;
+  color: white;
+}
+
+.location-info h2 {
+  position: relative;
+  padding: 0px;
+  top: -38px;
+  left: -20px;
+  font-size: 20px;
+  text-align: center;
+  background-color: rgba(32, 57, 75, 0.815);
+  width: 285px;
+  height: 40px;
+  border-radius: 3px;
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+
+.location-info ul {
+  top: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.location-info li {
+  position: relative;
+  top: -40px;
+  padding: 15px 0;
+  font-size: 21px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.selection-menu {
+  position: absolute;
+  width: 255px;
+  top: 63px;
+  left: 10px;
+}
+
+.selection-menu h1 {
+  position: relative;
+  background-color: rgb(32, 57, 75);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+  top: 13px;
+  border-radius: 0px;
+  height: 4.3vh;
+  padding-top: 14.5px;
+}
+
+.download-button {
+  position: absolute;
+  top: 9px;
+  right: 500px;
+  width: 60px;
+  height: 30px;
+  font-size: 1.5em;
+  background-color: rgb(217, 238, 159);
+  padding: 1px;
+  border-radius: 50px;
+}
+
+.counter-info {
+  position: absolute;
+  top: 89.4px;
+  left: 280px;
+  color: white;
+  background-color: rgb(32, 57, 75);
+  border-radius: 0px;
+  width: 60.3vw;  
+}
+
+.counter-info li{
+  font-size: 20px;
+  display: inline;
+  padding: 40px;
+}
