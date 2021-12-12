@@ -1,10 +1,10 @@
 <h1 align="center">Natural-Disaster-Tracker</h1>
 <h2 align="center">
+  <img width="100" alt="Screenshot 2021-12-12 at 02 20 20" src="https://user-images.githubusercontent.com/52991990/145704013-fca2e444-19d1-49a2-a0bd-8964da9a3c3b.png">
+
 </h2>
 
 <h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>
-
-### [Contributions are Welcome](https://github.com/silent-lad/VueSolitaire/blob/master/CONTRIBUTING.md)
 
 ## Description
 
