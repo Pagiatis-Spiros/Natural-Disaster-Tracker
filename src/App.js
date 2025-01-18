@@ -5,10 +5,10 @@ import Header from "./components/Header";
 import { useState, useEffect } from "react";
 import { MultiSelect } from "react-multi-select-component";
 const options = [
-  { label: "WildFires 🔥", value: "W" },
-  { label: "Volcanoes 🌋", value: "V" },
-  { label: "Storm ⛈️", value: "S" },
-  { label: "IceBerg 🧊", value: "I" },
+  { label: "Πυρκαγιές 🔥", value: "W" },
+  { label: "Ηφαίστεια 🌋", value: "V" },
+  { label: "Καταιγίδες ⛈️", value: "S" },
+  { label: "Παγόβουνα 🧊", value: "I" },
 ];
 
 function App() {
