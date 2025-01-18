@@ -9,7 +9,7 @@ const CounterInfo = ({ volcanoes, wildfires, storms, icebergs }) => {
           Wildfires : <strong style={{ color: "red" }}>{wildfires}</strong>
         </li>
         <li>
-          Storms : <strong style={{ color: "red" }}>{storms}</strong>
+          Καταιγίδες : <strong style={{ color: "red" }}>{storms}</strong>
         </li>
         <li>
           IceBergs : <strong style={{ color: "red" }}>{icebergs}</strong>
