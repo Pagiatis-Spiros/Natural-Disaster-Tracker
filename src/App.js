@@ -36,7 +36,7 @@ function App() {
       
       </div>
       <div className="selection-menu">
-        <h1>Select Disaster</h1>
+        <h1>Επιλογη Θεομηνιών</h1>
         <MultiSelect
           options={options}
           value={selected}
