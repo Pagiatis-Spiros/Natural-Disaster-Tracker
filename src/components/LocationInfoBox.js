@@ -1,10 +1,10 @@
 const LocationInfoBox = ({ info }) => {
     return (
         <div className="location-info">
-            <h2>Event Location Info</h2>
+            <h2>Πληροφορίες διαδρομής</h2>
             <ul>
-                <li>Type: { info.id }</li>
-                <li>Name: { info.title }</li>
+                <li>Τύπος: { info.id }</li>
+                <li>Συμβάν: { info.title }</li>
             </ul>
         </div>
     )
